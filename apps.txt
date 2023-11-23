@@ -1,4 +1,5 @@
 act-cli
+certifytheweb
 choco-cleaner
 chocolatey
 chocolatey-compatibility.extension
@@ -16,6 +17,7 @@ dotnet-8.0-sdk
 dotnetfx
 Everything
 f.lux.install
+Firefox
 gawk
 git.install
 gpg4win
@@ -26,6 +28,7 @@ hxd
 InnoSetup
 libreoffice-fresh
 make
+nodejs.install
 nuget.commandline
 peazip.install
 powertoys
@@ -40,3 +43,4 @@ Wget
 winaero-tweaker.install
 winscp.install
 wireshark
+wireguard
