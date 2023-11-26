@@ -44,3 +44,5 @@ winaero-tweaker.install
 winscp.install
 wireshark
 wireguard
+docker-desktop
+bitwarden
