@@ -38,7 +38,6 @@ sandboxie-plus.install
 sysinternals
 thunderbird
 visualstudio-installer
-visualstudio2022buildtools
 Wget
 winaero-tweaker.install
 winscp.install
