@@ -45,3 +45,4 @@ wireshark
 wireguard
 docker-desktop
 bitwarden
+postman
