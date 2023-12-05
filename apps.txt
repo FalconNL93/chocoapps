@@ -46,3 +46,4 @@ wireguard
 docker-desktop
 bitwarden
 postman
+librespeed-cli
