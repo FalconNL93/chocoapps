@@ -1,4 +1,6 @@
 powershell-core
+Firefox
+jetbrainstoolbox
 act-cli
 certifytheweb
 choco-cleaner
@@ -11,6 +13,7 @@ chocolatey-visualstudio.extension
 dbeaver
 devtoys
 diffutils
+chromium
 dotnet-5.0-sdk
 dotnet-6.0-sdk
 dotnet-7.0-sdk
@@ -18,7 +21,6 @@ dotnet-8.0-sdk
 dotnetfx
 Everything
 f.lux.install
-Firefox
 gawk
 git.install
 gpg4win
