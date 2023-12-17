@@ -27,4 +27,10 @@ if(-not($chocoVersion)){
 [string[]]$packages = "install";
 [string[]]$packages += Get-Content -Path 'apps.txt'
 
+if(Get-CimInstance -ClassName Win32_BIOS | Where-Object 'Manufacturer' -Like Dell*)
+{
+    Write-Output "Appending Dell packages"
+    [string[]]$packages += Get-Content -Path 'dell.txt'
+}
+
 Start-Process "choco.exe" -Wait -ArgumentList $packages
